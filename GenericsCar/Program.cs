@@ -59,6 +59,7 @@ namespace GenericsCar
             myCars[0].Drive();
 
             // 6. Tanka den första bilen i listan full med bensin
+            myCars[0].FillUp();
 
             // 7.Ta bilen på en åktur
             myCars[0].Drive();
